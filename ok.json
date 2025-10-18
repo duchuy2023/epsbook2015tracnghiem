@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "type": 0,
+    "photo": null,
+    "audio": null,
+    "question": "다음 단어와 관계있는 것은 무엇입니까?<hl>나라</hl>",
+    "options": ["네팔", "남자", "30세", "회사원"],
+    "answer": 1,
+    "translate": "Từ sau đây liên quan đến từ nào?\nQuốc gia\n1. Nepal\n2. Nam giới\n3. 30 tuổi\n4. Nhân viên công ty"
+  },
+  {
+    "id": 2,
+    "type": 0,
+    "photo": null,
+    "audio": null,
+    "question": "빈칸에 들어갈 가장 알맞은 것을 고르십시오.<hl>직업 : ____</hl>",
+    "options": ["여자", "25세", "농부", "대구시"],
+    "answer": 3,
+    "translate": "Chọn từ thích hợp nhất điền vào chỗ trống.\nNghề nghiệp : ____\n1. Nữ\n2. 25 tuổi\n3. Nông dân\n4. Thành phố Daegu"
+  },
+  {
+    "id": 3,
+    "type": 0,
+    "photo": null,
+    "audio": null,
+    "question": "빈칸에 들어갈 가장 알맞은 것을 고르십시오.<hl>국적 : ____</hl>",
+    "options": ["어부", "남자", "베트남", "부산시"],
+    "answer": 3,
+    "translate": "Chọn từ thích hợp nhất điền vào chỗ trống.\nQuốc tịch : ____\n1. Ngư dân\n2. Nam giới\n3. Việt Nam\n4. Thành phố Busan"
+  },
+  {
+    "id": 4,
+    "type": 0,
+    "photo": "eps-topik-book/epsbook2025-1.png",
+    "audio": null,
+    "question": "다음 글을 읽고 내용과 같은 것을 고르십시오.",
+    "options": [
+      "베트남 사람입니다.",
+      "생일은 5월 10일입니다.",
+      "7월에 외국인 등록증을 받았습니다.",
+      "서울출입국 · 외국인청에서 일합니다."
+    ],
+    "answer": 1,
+    "translate": "Đọc đoạn sau và chọn câu có nội dung đúng.\nThẻ đăng ký người nước ngoài\nNgày cấp: 10/5/2024\nCục Xuất nhập cảnh Seoul\nNgười nước ngoài: 990707-6******\nHọ tên: Huyen\nQuốc gia: Việt Nam\nTư cách lưu trú: Lao động phổ thông (E-9)\n1. Là người Việt Nam.\n2. Sinh nhật là ngày 10 tháng 5.\n3. Nhận thẻ vào tháng 7.\n4. Làm việc tại Cục Xuất nhập cảnh Seoul."
+  },
+  {
+    "id": 5,
+    "type": 0,
+    "photo": null,
+    "audio": null,
+    "question": "다음 글을 읽고 내용과 같은 것을 고르십시오.<hl>한국 사람들은 자신보다 나이가 많거나 지위가 높은 사람에게 인사할 때 허리를 굽혀 인사합니다.자신보다 어리거나 친한 사람에게는 손을 흔들어 인사합니다.공적인 상황에서는 주로 악수를 하며 인사합니다.이때 자신보다 나이가 훨씬 많거나 지위가 높은 사람이라면 왼손으로 오른팔을 받치고 악수해야 합니다.</hl>",
+    "options": [
+      "친한 친구에게는 허리를 굽혀 인사해야 합니다.",
+      "공적인 상황에서 인사할 때는 주로 손을 흔듭니다.",
+      "자신보다 나이가 많은 사람과는 악수를 하지 않습니다.",
+      "지위가 높은 사람과 악수할 때는 왼손으로 오른팔을 받칩니다."
+    ],
+    "answer": 4,
+    "translate": "Đọc đoạn sau và chọn câu đúng với nội dung.\nNgười Hàn Quốc khi chào người lớn tuổi hơn hoặc có địa vị cao hơn thì cúi người chào. Với người trẻ hơn hoặc thân thiết thì vẫy tay chào. Trong tình huống công cộng thì chủ yếu bắt tay chào. Khi bắt tay với người lớn tuổi hơn nhiều hoặc có địa vị cao thì nên đỡ cánh tay phải bằng tay trái.\n① Khi chào bạn thân thì phải cúi người.\n② Khi chào trong tình huống công cộng thì chủ yếu vẫy tay.\n③ Không bắt tay với người lớn tuổi hơn.\n④ Khi bắt tay với người có địa vị cao thì đỡ tay phải bằng tay trái."
+  },
+  {
+    "id": 6,
+    "type": 0,
+    "photo": null,
+    "audio": "eps-topik-book/epsbook2025-1-6.mp3",
+    "question": "다음을 듣고 빈칸에 알맞은 것을 고르십시오.<hl>____국 </hl>",
+    "options": ["태", "미", "수", "조"],
+    "answer": 1,
+    "translate": "Nghe đoạn sau và chọn từ thích hợp điền vào chỗ trống.\n1. Thái\n2. Mỹ\n3. Úc\n4. Triều"
+  },
+  {
+    "id": 7,
+    "type": 0,
+    "photo": null,
+    "audio": "eps-topik-book/epsbook2025-1-7.mp3",
+    "question": "다음을 듣고 물음에 알맞은 대답을 고르십시오.",
+    "options": [
+      "네, 회사원입니다.",
+      "네, 회사원이 있습니다.",
+      "아니요, 회사원이 많습니다.",
+      "아니요, 회사원이 좋습니다."
+    ],
+    "answer": 1,
+    "translate": "Nghe đoạn sau và chọn câu trả lời phù hợp với câu hỏi.\n1. Vâng, tôi là nhân viên công ty.\n2. Vâng, có nhân viên công ty.\n3. Không, có nhiều nhân viên công ty.\n4. Không, tôi thích nhân viên công ty."
+  },
+  {
+    "id": 8,
+    "type": 0,
+    "photo": null,
+    "audio": "eps-topik-book/epsbook2025-1-8.mp3",
+    "question": "다음을 듣고 물음에 알맞은 대답을 고르십시오.",
+    "options": [
+      "남자입니다.",
+      "기술자입니다.",
+      "서른 살입니다.",
+      "네팔 사람입니다."
+    ],
+    "answer": 4,
+    "translate": "Nghe đoạn sau và chọn câu trả lời phù hợp với câu hỏi.\n1. Là nam giới.\n2. Là kỹ sư.\n3. 30 tuổi.\n4. Là người Nepal."
+  },
+  {
+    "id": 9,
+    "type": 0,
+    "photo": null,
+    "audio": "eps-topik-book/epsbook2025-1-9.mp3",
+    "question": "두 사람은 무엇에 대해 말하고 있습니까?",
+    "options": ["이름", "나이", "국적", "성별"],
+    "answer": 3,
+    "translate": "Hai người đang nói về điều gì?\n1. Tên\n2. Tuổi\n3. Quốc tịch\n4. Giới tính"
+  },
+  {
+    "id": 10,
+    "type": 0,
+    "photo": null,
+    "audio": "eps-topik-book/epsbook2025-1-10.mp3",
+    "question": "두 사람은 무엇에 대해 말하고 있습니까?",
+    "options": ["고향", "직업", "이름", "국적"],
+    "answer": 2,
+    "translate": "Hai người đang nói về điều gì?\n1. Quê quán\n2. Nghề nghiệp\n3. Tên\n4. Quốc tịch"
+  }
+]
