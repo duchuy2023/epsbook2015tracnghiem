@@ -1,0 +1,172 @@
+[
+  {
+    "id": 21,
+    "type": 1,
+    "photo": null,
+    "audio": null,
+    "question": {
+      "text": "다음 내용과 관계있는 그림을 고르십시오.<hl>의자입니다.</hl>",
+      "translate": "Hãy chọn bức tranh có liên quan đến nội dung sau.<hl>Đây là cái ghế.</hl>"
+    },
+    "options": [
+      { "text": "eps-topik-book/epsbook2025-2-3-1.jpg", "translate": "" },
+      { "text": "eps-topik-book/epsbook2025-2-3-2.jpg", "translate": "" },
+      { "text": "eps-topik-book/epsbook2025-2-3-3.jpg", "translate": "" },
+      { "text": "eps-topik-book/epsbook2025-2-3-4.jpg", "translate": "" }
+    ],
+    "answer": 1
+  },
+  {
+    "id": 22,
+    "type": 0,
+    "photo": null,
+    "audio": null,
+    "question": {
+      "text": "다음 단어와 관계있는 것은 무엇입니까?<hl>소파</hl>",
+      "translate": "Từ nào có liên quan đến từ sau đây?<hl>Sofa</hl>"
+    },
+    "options": [
+      { "text": "계절", "translate": "Mùa" },
+      { "text": "날씨", "translate": "Thời tiết" },
+      { "text": "가구", "translate": "Đồ nội thất" },
+      { "text": "취미", "translate": "Sở thích" }
+    ],
+    "answer": 3
+  },
+  {
+    "id": 23,
+    "type": 0,
+    "photo": null,
+    "audio": null,
+    "question": {
+      "text": "다음 중 밑줄 친 부분이 맞는 문장을 고르십시오.",
+      "translate": "Trong các câu sau, chọn câu có phần gạch chân đúng."
+    },
+    "options": [
+      { "text": "방에 옷장<u>가</u> 없어요.", "translate": "Trong phòng không có tủ quần áo." },
+      { "text": "저는 농부<u>이</u> 아니에요.", "translate": "Tôi không phải là nông dân." },
+      { "text": "다라 씨는 회사<u>에</u> 있어요.", "translate": "Dara đang ở công ty." },
+      { "text": "유수프는 식당<u>에</u> 밥을 먹어요.", "translate": "Yusuf ăn cơm ở nhà hàng." }
+    ],
+    "answer": 3
+  },
+  {
+    "id": 24,
+    "type": 0,
+    "photo": null,
+    "audio": null,
+    "question": {
+      "text": "빈칸에 들어갈 가장 알맞은 것을 고르십시오.<hl>머리가 너무 길어요. 내일 머리를 자르러 _____ 에 갈 거예요.</hl>",
+      "translate": "Chọn từ thích hợp nhất điền vào chỗ trống.<hl>Tóc tôi dài quá. Ngày mai tôi sẽ đi cắt tóc ở ____.</hl>"
+    },
+    "options": [
+      { "text": "커피숍", "translate": "Quán cà phê" },
+      { "text": "편의점", "translate": "Cửa hàng tiện lợi" },
+      { "text": "우체국", "translate": "Bưu điện" },
+      { "text": "미용실", "translate": "Tiệm làm tóc" }
+    ],
+    "answer": 4
+  },
+  {
+    "id": 25,
+    "type": 0,
+    "photo": null,
+    "audio": null,
+    "question": {
+      "text": "다음 글을 읽고 내용과 같은 것을 고르십시오.<hl>한국에는 한 개의 특별시와 한 개의 특별자치시, 여섯 개의 광역시가 있습니다. 서울은 가장 큰 도시로 정치, 경제, 문화의 중심지입니다. 부산은 두 번째로 큰 도시로 아름다운 해변이 있어 많은 관광객이 방문합니다. 인천은 국제공항과 인천항이 있는 대한민국의 관문입니다.</hl>",
+      "translate": "Đọc đoạn văn sau và chọn câu có nội dung đúng.<hl>Ở Hàn Quốc có một thành phố đặc biệt, một thành phố tự trị đặc biệt và sáu thành phố trực thuộc trung ương. Seoul là thành phố lớn nhất, là trung tâm chính trị, kinh tế và văn hóa. Busan là thành phố lớn thứ hai, có bãi biển đẹp nên có nhiều du khách đến thăm. Incheon là cửa ngõ của Hàn Quốc, có sân bay quốc tế và cảng Incheon.</hl>"
+    },
+    "options": [
+      { "text": "인천은 한국의 도시 중에서 두 번째로 큰 곳입니다.", "translate": "Incheon là thành phố lớn thứ hai ở Hàn Quốc." },
+      { "text": "한국에는 특별시와 광역시가 모두 여섯 개 있습니다.", "translate": "Ở Hàn Quốc có tổng cộng sáu thành phố đặc biệt và trực thuộc trung ương." },
+      { "text": "관광객들은 아름다운 해변을 보려고 부산을 찾습니다.", "translate": "Khách du lịch đến Busan để ngắm bãi biển đẹp." },
+      { "text": "한국에서 가장 큰 도시인 서울은 대한민국의 관문입니다.", "translate": "Seoul, thành phố lớn nhất Hàn Quốc, là cửa ngõ của đất nước." }
+    ],
+    "answer": 3
+  },
+  {
+    "id": 26,
+    "type": 0,
+    "photo": null,
+    "audio": "eps-topik-book/epsbook2025-3-01.mp3",
+    "question": {
+      "text": "다음을 듣고 빈칸에 알맞은 것을 고르십시오.<hl>여기는 ____입니다.</hl>",
+      "translate": "Nghe và chọn từ thích hợp điền vào chỗ trống.<hl>Đây là ____.</hl>"
+    },
+    "options": [
+      { "text": "은행", "translate": "Ngân hàng" },
+      { "text": "식당", "translate": "Nhà hàng" },
+      { "text": "시장", "translate": "Chợ" },
+      { "text": "약국", "translate": "Hiệu thuốc" }
+    ],
+    "answer": 1
+  },
+  {
+    "id": 27,
+    "type": 0,
+    "photo": null,
+    "audio": "eps-topik-book/epsbook2025-3-02.mp3",
+    "question": {
+      "text": "다음을 듣고 물음에 알맞은 대답을 고르십시오.",
+      "translate": "Nghe và chọn câu trả lời phù hợp."
+    },
+    "options": [
+      { "text": "네, 의자를 사요.", "translate": "Vâng, tôi mua ghế." },
+      { "text": "네, 의자가 많아요.", "translate": "Vâng, có nhiều ghế." },
+      { "text": "아니요, 의자예요.", "translate": "Không, đó là cái ghế." },
+      { "text": "아니요, 의자가 높아요.", "translate": "Không, cái ghế cao." }
+    ],
+    "answer": 2
+  },
+  {
+    "id": 28,
+    "type": 0,
+    "photo": null,
+    "audio": "eps-topik-book/epsbook2025-3-03.mp3",
+    "question": {
+      "text": "다음을 듣고 물음에 알맞은 대답을 고르십시오.",
+      "translate": "Nghe và chọn câu trả lời phù hợp."
+    },
+    "options": [
+      { "text": "어제 갔어요.", "translate": "Tôi đã đi hôm qua." },
+      { "text": "매일 갔어요.", "translate": "Tôi đi mỗi ngày." },
+      { "text": "친구가 갔어요.", "translate": "Bạn tôi đã đi." },
+      { "text": "지하철로 갔어요.", "translate": "Tôi đã đi bằng tàu điện ngầm." }
+    ],
+    "answer": 4
+  },
+  {
+    "id": 29,
+    "type": 0,
+    "photo": null,
+    "audio": "eps-topik-book/epsbook2025-3-04.mp3",
+    "question": {
+      "text": "두 사람은 무엇에 대해 말하고 있습니까?",
+      "translate": "Hai người đang nói về điều gì?"
+    },
+    "options": [
+      { "text": "집안일", "translate": "Việc nhà" },
+      { "text": "조리법", "translate": "Công thức nấu ăn" },
+      { "text": "대중교통", "translate": "Phương tiện giao thông công cộng" },
+      { "text": "전자제품", "translate": "Đồ điện tử" }
+    ],
+    "answer": 4
+  },
+  {
+    "id": 30,
+    "type": 0,
+    "photo": null,
+    "audio": "eps-topik-book/epsbook2025-3-05.mp3",
+    "question": {
+      "text": "다음을 듣고 이어지는 말로 가장 알맞은 것을 고르십시오.",
+      "translate": "Nghe và chọn câu tiếp theo phù hợp nhất."
+    },
+    "options": [
+      { "text": "네, 저는 시장에 자주 가요.", "translate": "Vâng, tôi thường đi chợ." },
+      { "text": "네, 시장에서 과일을 살 거예요.", "translate": "Vâng, tôi sẽ mua hoa quả ở chợ." },
+      { "text": "아니요, 시장은 없고 마트는 있어요.", "translate": "Không, không có chợ nhưng có siêu thị." },
+      { "text": "아니요, 채소는 시장에서 사는 게 좋아요.", "translate": "Không, rau mua ở chợ thì tốt hơn." }
+    ],
+    "answer": 3
+  }
+]
