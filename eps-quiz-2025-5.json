@@ -1,0 +1,172 @@
+[
+  {
+    "id": 51,
+    "type": 0,
+    "photo": null,
+    "audio": null,
+    "question": {
+      "text": "다음 단어와 관계있는 것은 무엇입니까?<hl>7월 15일</hl>",
+      "translate": "Từ nào có liên quan đến <hl>Ngày 15 tháng 7</hl>"
+    },
+    "options": [
+      { "text": "이름", "translate": "Tên" },
+      { "text": "계절", "translate": "Mùa" },
+      { "text": "날짜", "translate": "Ngày tháng" },
+      { "text": "시간", "translate": "Thời gian" }
+    ],
+    "answer": 3
+  },
+  {
+    "id": 52,
+    "type": 0,
+    "photo": null,
+    "audio": null,
+    "question": {
+      "text": "다음 단어와 관계있는 것은 무엇입니까?<hl>토요일, 일요일</hl>",
+      "translate": "Từ nào có liên quan đến <hl>Thứ Bảy và Chủ nhật</hl>"
+    },
+    "options": [
+      { "text": "평일", "translate": "Ngày thường" },
+      { "text": "장소", "translate": "Địa điểm" },
+      { "text": "주말", "translate": "Cuối tuần" },
+      { "text": "물건", "translate": "Đồ vật" }
+    ],
+    "answer": 3
+  },
+  {
+    "id": 53,
+    "type": 0,
+    "photo": null,
+    "audio": null,
+    "question": {
+      "text": "다음 중 밑줄 친 부분이 맞는 문장을 고르십시오.",
+      "translate": "Chọn câu có phần gạch dưới đúng."
+    },
+    "options": [
+      { "text": "옷장<u>가</u> 있어요.", "translate": "Có tủ quần áo. (sai ngữ pháp)" },
+      { "text": "저는 농부<u>이</u> 아닙니다.", "translate": "Tôi không phải là nông dân. (sai ngữ pháp, thừa '이')" },
+      { "text": "저는 텔레비전<u>를</u> 봐요.", "translate": "Tôi xem TV. (sai tiểu từ '를')" },
+      { "text": "선생님<u>은</u> 한국 사람입니다.", "translate": "Giáo viên là người Hàn Quốc." }
+    ],
+    "answer": 4
+  },
+  {
+    "id": 54,
+    "type": 0,
+    "photo": null,
+    "audio": null,
+    "question": {
+      "text": "다음 중 밑줄 친 부분이 맞는 문장을 고르십시오.",
+      "translate": "Chọn câu có phần gạch dưới đúng."
+    },
+    "options": [
+      { "text": "주말에 <u>일하았어요.</u>", "translate": "Tôi đã làm việc cuối tuần. (sai chia động từ)" },
+      { "text": "어제 신문을 <u>읽었어요.</u>", "translate": "Hôm qua tôi đã đọc báo." },
+      { "text": "작년에 한국에 <u>오였어요.</u>", "translate": "Năm ngoái tôi đã đến Hàn Quốc. (sai chia động từ)" },
+      { "text": "수요일에 영화관에 <u>가었어요.</u>", "translate": "Vào thứ Tư tôi đã đi rạp phim. (sai chia động từ)" }
+    ],
+    "answer": 2
+  },
+  {
+    "id": 55,
+    "type": 0,
+    "photo": null,
+    "audio": null,
+    "question": {
+      "text": "다음 글을 읽고 내용과 같은 것을 고르십시오.<hl>한국의 달력은 양력과 음력을 함께 표시합니다. 회사와 학교의 일정, 국경일 등은 양력을 기준으로 합니다. 그러나 설날, 추석과 같은 전통 명절은 음력을 기준으로 합니다. 생일의 경우에도 양력을 기준으로 하는 사람이 있고, 음력을 기준으로 하는 사람이 있습니다. 이처럼 한국에서는 양력과 음력이 모두 사용됩니다.</hl>",
+      "translate": "Đọc đoạn văn sau và chọn câu có nội dung giống nhất.<hl> Lịch của Hàn Quốc thể hiện cả dương lịch và âm lịch. Lịch công ty và trường học dựa trên dương lịch, nhưng các ngày lễ truyền thống như Tết và Trung thu dựa trên âm lịch. Một số người tính sinh nhật theo dương lịch, một số theo âm lịch. Như vậy, ở Hàn Quốc sử dụng cả hai loại lịch.</hl>"
+    },
+    "options": [
+      { "text": "한국에는 음력 달력이 따로 있습니다.", "translate": "Hàn Quốc có lịch âm riêng biệt." },
+      { "text": "회사의 일정은 음력을 기준으로 합니다.", "translate": "Lịch công ty dựa theo âm lịch." },
+      { "text": "음력으로 생일을 기념하는 사람도 있습니다.", "translate": "Cũng có người kỷ niệm sinh nhật theo âm lịch." },
+      { "text": "한국의 전통 명절은 양력을 기준으로 합니다.", "translate": "Các ngày lễ truyền thống của Hàn Quốc dựa theo dương lịch." }
+    ],
+    "answer": 3
+  },
+  {
+    "id": 56,
+    "type": 0,
+    "photo": null,
+    "audio": "eps-topik-book/epsbook2025-5-01.mp3",
+    "question": {
+      "text": "다음을 듣고 빈칸에 알맞은 것을 고르십시오.<hl>오늘은 ____ 입니다.</hl>",
+      "translate": "Nghe và chọn từ thích hợp điền vào chỗ trống: <hl>Hôm nay là ____</hl>."
+    },
+    "options": [
+      { "text": "월요일", "translate": "Thứ Hai" },
+      { "text": "목요일", "translate": "Thứ Năm" },
+      { "text": "금요일", "translate": "Thứ Sáu" },
+      { "text": "일요일", "translate": "Chủ nhật" }
+    ],
+    "answer": 2
+  },
+  {
+    "id": 57,
+    "type": 1,
+    "photo": null,
+    "audio": "eps-topik-book/epsbook2025-5-02.mp3",
+    "question": {
+      "text": "다음을 듣고 들은 내용과 관계있는 그림을 고르십시오.",
+      "translate": "Nghe và chọn hình có liên quan đến nội dung đã nghe."
+    },
+    "options": [
+      { "text": "eps-topik-book/epsbook2025-5-7-1.jpg", "translate": "" },
+      { "text": "eps-topik-book/epsbook2025-5-7-2.jpg", "translate": "" },
+      { "text": "eps-topik-book/epsbook2025-5-7-3.jpg", "translate": "" },
+      { "text": "eps-topik-book/epsbook2025-5-7-4.jpg", "translate": "" }
+    ],
+    "answer": 3
+  },
+  {
+    "id": 58,
+    "type": 0,
+    "photo": null,
+    "audio": "eps-topik-book/epsbook2025-5-03.mp3",
+    "question": {
+      "text": "다음을 듣고 물음에 알맞은 대답을 고르십시오.",
+      "translate": "Nghe và chọn câu trả lời phù hợp với câu hỏi."
+    },
+    "options": [
+      { "text": "네, 수요일이에요.", "translate": "Vâng, là thứ Tư." },
+      { "text": "네, 수요일에 일해요.", "translate": "Vâng, tôi làm việc vào thứ Tư." },
+      { "text": "아니요, 수요일을 좋아해요.", "translate": "Không, tôi thích thứ Tư." },
+      { "text": "아니요, 수요일에 일이 많아요.", "translate": "Không, tôi có nhiều việc vào thứ Tư." }
+    ],
+    "answer": 2
+  },
+  {
+    "id": 59,
+    "type": 0,
+    "photo": null,
+    "audio": "eps-topik-book/epsbook2025-5-04.mp3",
+    "question": {
+      "text": "다음을 듣고 물음에 알맞은 대답을 고르십시오.",
+      "translate": "Nghe và chọn câu trả lời phù hợp."
+    },
+    "options": [
+      { "text": "오늘입니다.", "translate": "Hôm nay." },
+      { "text": "주말입니다.", "translate": "Cuối tuần." },
+      { "text": "화요일입니다.", "translate": "Thứ Ba." },
+      { "text": "2월 9일입니다.", "translate": "Ngày 9 tháng 2." }
+    ],
+    "answer": 3
+  },
+  {
+    "id": 60,
+    "type": 0,
+    "photo": null,
+    "audio": "eps-topik-book/epsbook2025-5-05.mp3",
+    "question": {
+      "text": "두 사람은 무엇에 대해 말하고 있습니까?",
+      "translate": "Hai người đang nói về điều gì?"
+    },
+    "options": [
+      { "text": "날씨", "translate": "Thời tiết" },
+      { "text": "요일", "translate": "Ngày trong tuần" },
+      { "text": "음식", "translate": "Đồ ăn" },
+      { "text": "이름", "translate": "Tên" }
+    ],
+    "answer": 2
+  }
+]
