@@ -1,0 +1,172 @@
+[
+  {
+    "id": 71,
+    "type": 0,
+    "photo": null,
+    "audio": null,
+    "question": {
+      "text": "다음 단어와 관계있는 것은 무엇입니까?<hl>여름</hl>",
+      "translate": "Từ nào có liên quan đến từ <hl>Mùa hè</hl>"
+    },
+    "options": [
+      { "text": "계절", "translate": "Mùa, thời tiết" },
+      { "text": "여행", "translate": "Du lịch" },
+      { "text": "장소", "translate": "Địa điểm" },
+      { "text": "명절", "translate": "Ngày lễ" }
+    ],
+    "answer": 1
+  },
+  {
+    "id": 72,
+    "type": 0,
+    "photo": null,
+    "audio": null,
+    "question": {
+      "text": "다음 중 밑줄 친 부분이 맞는 문장을 고르십시오.",
+      "translate": "Chọn câu có phần gạch chân đúng."
+    },
+    "options": [
+      { "text": "집까지 걸어서 20분쯤 <u>들어요.</u>", "translate": "Đi bộ đến nhà mất khoảng 20 phút." },
+      { "text": "퇴근 시간에는 차가 많이 <u>걸려요.</u>", "translate": "Giờ tan làm có nhiều xe bị kẹt." },
+      { "text": "생일에 친구들을 집으로 <u>건너갔어요.</u>", "translate": "Sinh nhật tôi đã sang nhà bạn." },
+      { "text": "아침에 비가 왔는데 지금은 <u>그쳤어요.</u>", "translate": "Buổi sáng trời mưa nhưng bây giờ đã tạnh." }
+    ],
+    "answer": 4
+  },
+  {
+    "id": 73,
+    "type": 0,
+    "photo": null,
+    "audio": null,
+    "question": {
+      "text": "빈칸에 들어갈 가장 알맞은 것을 고르십시오.<hl>김치찌개가 너무 ____. 조심해서 천천히 드세요.</hl>",
+      "translate": "Chọn từ thích hợp nhất điền vào chỗ trống.<hl>Canh kimchi quá ____. Hãy ăn chậm và cẩn thận nhé.</hl>"
+    },
+    "options": [
+      { "text": "적습니다", "translate": "Ít" },
+      { "text": "비쌉니다", "translate": "Đắt" },
+      { "text": "맛있습니다", "translate": "Ngon" },
+      { "text": "뜨겁습니다", "translate": "Nóng" }
+    ],
+    "answer": 4
+  },
+  {
+    "id": 74,
+    "type": 0,
+    "photo": null,
+    "audio": null,
+    "question": {
+      "text": "빈칸에 들어갈 알맞은 표현을 골라 문장을 완성하십시오.<hl>제 고향은 ____. 저는 한국에 와서 처음 겨울을 경험했습니다. 너무 추워서 깜짝 놀랐습니다.</hl>",
+      "translate": "Chọn cách diễn đạt phù hợp để hoàn thành câu.<hl>Quê tôi ____. Khi đến Hàn Quốc, tôi mới lần đầu trải qua mùa đông, rất lạnh nên tôi ngạc nhiên.</hl>"
+    },
+    "options": [
+      { "text": "바람이 많이 붑니다", "translate": "Có nhiều gió" },
+      { "text": "비가 자주 옵니다", "translate": "Thường có mưa" },
+      { "text": "날씨가 항상 따뜻합니다", "translate": "Thời tiết luôn ấm áp" },
+      { "text": "날씨가 너무 춥습니다", "translate": "Thời tiết rất lạnh" }
+    ],
+    "answer": 3
+  },
+  {
+    "id": 75,
+    "type": 0,
+    "photo": null,
+    "audio": null,
+    "question": {
+      "text": "다음 글을 읽고 내용과 같은 것을 고르십시오.<hl>한국은 사계절이 뚜렷한 나라입니다. 따뜻한 봄이 되면 사람들은 꽃구경을 갑니다. 여름에는 덥고 비가 많이 오며, 장마가 끝나면 무더위가 시작됩니다. 가을은 날씨가 좋아서 축제 등과 같은 행사가 많이 열립니다. 겨울은 매우 춥지만 스키 등 겨울 스포츠를 즐기는 사람들이 많습니다.</hl>",
+      "translate": "Đọc đoạn văn và chọn câu có nội dung giống nhất.<hl>Hàn Quốc là đất nước có bốn mùa rõ rệt. Khi mùa xuân ấm áp đến, người ta đi ngắm hoa. Mùa hè thì nóng và mưa nhiều, sau khi mùa mưa kết thúc, đợt nắng nóng bắt đầu. Mùa thu thời tiết dễ chịu, nên có nhiều lễ hội được tổ chức. Mùa đông rất lạnh nhưng có nhiều người thích chơi thể thao mùa đông như trượt tuyết.</hl>"
+    },
+    "options": [
+      { "text": "한국은 계절의 변화가 뚜렷하지 않습니다.", "translate": "Hàn Quốc không có sự thay đổi rõ rệt giữa các mùa." },
+      { "text": "축제는 날씨가 좋은 가을에 많이 열립니다.", "translate": "Lễ hội thường được tổ chức vào mùa thu khi thời tiết đẹp." },
+      { "text": "무더위가 끝나면 비가 많이 오는 장마가 시작됩니다.", "translate": "Sau khi hết nóng bức, mùa mưa bắt đầu." },
+      { "text": "겨울에는 너무 추워서 사람들이 야외 활동을 하지 않습니다.", "translate": "Mùa đông quá lạnh nên người ta không ra ngoài." }
+    ],
+    "answer": 2
+  },
+  {
+    "id": 76,
+    "type": 1,
+    "photo": null,
+    "audio": "eps-topik-book/eps2025-7-01.mp3",
+    "question": {
+      "text": "다음을 듣고 들은 내용과 관계있는 그림을 고르십시오.",
+      "translate": "Nghe và chọn hình liên quan đến nội dung đã nghe."
+    },
+    "options": [
+      { "text": "eps-topik-book/eps2025-7-1-1.jpg", "translate": "" },
+      { "text": "eps-topik-book/eps2025-7-1-2.jpg", "translate": "" },
+      { "text": "eps-topik-book/eps2025-7-1-3.jpg", "translate": "" },
+      { "text": "eps-topik-book/eps2025-7-1-4.jpg", "translate": "" }
+    ],
+    "answer": 1
+  },
+  {
+    "id": 77,
+    "type": 1,
+    "photo": null,
+    "audio": "eps-topik-book/eps2025-7-02.mp3",
+    "question": {
+      "text": "두 사람은 무엇에 대해 말하고 있습니까?",
+      "translate": "Hai người đang nói về điều gì?"
+    },
+    "options": [
+      { "text": "위치", "translate": "Vị trí" },
+      { "text": "주문", "translate": "Đặt hàng" },
+      { "text": "날씨", "translate": "Thời tiết" },
+      { "text": "요일", "translate": "Thứ trong tuần" }
+    ],
+    "answer": 3
+  },
+  {
+    "id": 78,
+    "type": 1,
+    "photo": null,
+    "audio": "eps-topik-book/eps2025-7-03.mp3",
+    "question": {
+      "text": "다음을 듣고 물음에 알맞은 대답을 고르십시오.",
+      "translate": "Nghe và chọn câu trả lời phù hợp."
+    },
+    "options": [
+      { "text": "네, 커피가 맛있어요.", "translate": "Vâng, cà phê ngon lắm." },
+      { "text": "네, 커피를 정말 좋아해요.", "translate": "Vâng, tôi thật sự thích cà phê." },
+      { "text": "아니요, 커피가 너무 많아요.", "translate": "Không, cà phê nhiều quá." },
+      { "text": "아니요, 커피가 별로 뜨겁지 않아요.", "translate": "Không, cà phê không nóng lắm." }
+    ],
+    "answer": 4
+  },
+  {
+    "id": 79,
+    "type": 1,
+    "photo": null,
+    "audio": "eps-topik-book/eps2025-7-04.mp3",
+    "question": {
+      "text": "다음을 듣고 물음에 알맞은 대답을 고르십시오.",
+      "translate": "Nghe và chọn câu trả lời phù hợp."
+    },
+    "options": [
+      { "text": "싸게 샀어요.", "translate": "Tôi mua rẻ lắm." },
+      { "text": "조금 전에 샀어요.", "translate": "Tôi vừa mua lúc nãy." },
+      { "text": "비가 와서 샀어요.", "translate": "Tôi mua vì trời mưa." },
+      { "text": "편의점에서 샀어요.", "translate": "Tôi mua ở cửa hàng tiện lợi." }
+    ],
+    "answer": 2
+  },
+  {
+    "id": 80,
+    "type": 1,
+    "photo": null,
+    "audio": "eps-topik-book/eps2025-7-05.mp3",
+    "question": {
+      "text": "다음을 듣고 이어지는 말로 가장 알맞은 것을 고르십시오.",
+      "translate": "Nghe và chọn câu phù hợp để nối tiếp đoạn hội thoại."
+    },
+    "options": [
+      { "text": "지금은 봄이에요.", "translate": "Bây giờ là mùa xuân." },
+      { "text": "저는 가을을 좋아해요.", "translate": "Tôi thích mùa thu." },
+      { "text": "3월부터 5월까지예요.", "translate": "Từ tháng 3 đến tháng 5." },
+      { "text": "따뜻하고 꽃이 많이 펴요.", "translate": "Trời ấm và có nhiều hoa nở." }
+    ],
+    "answer": 4
+  }
+]
