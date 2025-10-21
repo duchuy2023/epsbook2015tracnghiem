@@ -1,0 +1,172 @@
+[
+  {
+    "id": 61,
+    "type": 1,
+    "photo": null,
+    "audio": null,
+    "question": {
+      "text": "다음 내용과 관계있는 그림을 고르십시오.<hl>게임을 하고 있습니다.</hl>",
+      "translate": "Hãy chọn hình liên quan đến nội dung sau: <hl>Đang chơi trò chơi.</hl>"
+    },
+    "options": [
+      { "text": "eps-topik-book/eps2025-6-1-1.jpg", "translate": "" },
+      { "text": "eps-topik-book/eps2025-6-1-2.jpg", "translate": "" },
+      { "text": "eps-topik-book/eps2025-6-1-3.jpg", "translate": "" },
+      { "text": "eps-topik-book/eps2025-6-1-4.jpg", "translate": "" }
+    ],
+    "answer": 2
+  },
+  {
+    "id": 62,
+    "type": 1,
+    "photo": null,
+    "audio": null,
+    "question": {
+      "text": "다음 내용과 관계있는 그림을 고르십시오.<hl>밥을 먹고 있습니다.</hl>",
+      "translate": "Hãy chọn hình liên quan đến nội dung sau: <hl>Đang ăn cơm.</hl>"
+    },
+    "options": [
+      { "text": "eps-topik-book/eps2025-6-2-1.jpg", "translate": "" },
+      { "text": "eps-topik-book/eps2025-6-2-2.jpg", "translate": "" },
+      { "text": "eps-topik-book/eps2025-6-2-3.jpg", "translate": "" },
+      { "text": "eps-topik-book/eps2025-6-2-4.jpg", "translate": "" }
+    ],
+    "answer": 4
+  },
+  {
+    "id": 63,
+    "type": 0,
+    "photo": null,
+    "audio": null,
+    "question": {
+      "text": "다음 중 밑줄 친 부분이 맞는 문장을 고르십시오.",
+      "translate": "Trong các câu dưới đây, chọn câu có phần gạch chân đúng."
+    },
+    "options": [
+      { "text": "휴게실에서 <u>쉬습니다.</u>", "translate": "Nghỉ ngơi ở phòng nghỉ." },
+      { "text": "기숙사에서 <u>청소하합니다.</u>", "translate": "Dọn dẹp ở ký túc xá." },
+      { "text": "시장에서 과일을 <u>사습니다.</u>", "translate": "Mua hoa quả ở chợ." },
+      { "text": "식당에서 점심을 <u>먹습니다.</u>", "translate": "Ăn trưa ở nhà hàng." }
+    ],
+    "answer": 4
+  },
+  {
+    "id": 64,
+    "type": 0,
+    "photo": null,
+    "audio": null,
+    "question": {
+      "text": "다음 중 밑줄 친 부분이 맞는 문장을 고르십시오.",
+      "translate": "Trong các câu dưới đây, chọn câu có phần gạch chân đúng."
+    },
+    "options": [
+      { "text": "주말에 장<u>에</u> 봤습니다.", "translate": "Cuối tuần đã đi chợ." },
+      { "text": "어제 친구<u>가</u> 만났습니다.", "translate": "Hôm qua đã gặp bạn." },
+      { "text": "일곱 시<u>에</u> 퇴근했습니다.", "translate": "Tan làm lúc 7 giờ." },
+      { "text": "아침에 빵<u>를</u> 먹었습니다.", "translate": "Sáng đã ăn bánh mì." }
+    ],
+    "answer": 3
+  },
+  {
+    "id": 65,
+    "type": 0,
+    "photo": null,
+    "audio": null,
+    "question": {
+      "text": "다음 글을 읽고 내용과 같은 것을 고르십시오.<hl>한국의 직장인들은 출근할 때 주로 대중교통이나 개인 승용차를 이용합니다. 점심시간은 보통 12시부터 1시까지로 회사 동료들과 함께 먹는 경우가 많습니다. 퇴근은 대부분 6시에 하지만 일을 다 끝내지 못했을 때는 야근을 하기도 합니다. 퇴근 후에는 팀워크를 다지기 위해 상사나 동료들과 회식을 할 때도 있습니다.</hl>",
+      "translate": "Đọc đoạn văn và chọn câu có nội dung giống. <hl>Nhân viên văn phòng Hàn Quốc khi đi làm thường dùng phương tiện công cộng hoặc xe cá nhân. Giờ ăn trưa thường từ 12 đến 1 giờ, thường ăn cùng đồng nghiệp. Thường tan làm lúc 6 giờ, nhưng khi chưa xong việc có thể làm thêm giờ. Sau giờ làm có khi đi ăn cùng sếp hoặc đồng nghiệp.</hl>"
+    },
+    "options": [
+      { "text": "직장인들은 퇴근 시간이 자유로운 경우가 많습니다.", "translate": "Nhân viên thường có giờ tan làm linh hoạt." },
+      { "text": "직장인들은 근무 시간 중에 동료들과 회식을 합니다.", "translate": "Nhân viên ăn nhậu cùng đồng nghiệp trong giờ làm." },
+      { "text": "직장인들은 출근할 때 버스나 지하철을 타지 않습니다.", "translate": "Nhân viên không đi xe buýt hoặc tàu điện khi đi làm." },
+      { "text": "직장인들은 대부분 회사 동료들과 함께 점심을 먹습니다.", "translate": "Phần lớn nhân viên ăn trưa cùng đồng nghiệp." }
+    ],
+    "answer": 4
+  },
+  {
+    "id": 66,
+    "type": 1,
+    "photo": null,
+    "audio": "eps-topik-book/eps2025-6-01.mp3",
+    "question": {
+      "text": " 다음을 듣고 들은 내용과 관계있는 그림을 고르십시오.",
+      "translate": " Nghe và chọn hình phù hợp với nội dung đã nghe."
+    },
+    "options": [
+      { "text": "eps-topik-book/eps2025-6-6-1.jpg", "translate": "11:00" },
+      { "text": "eps-topik-book/eps2025-6-6-2.jpg", "translate": "11:30" },
+      { "text": "eps-topik-book/eps2025-6-6-3.jpg", "translate": "12:00" },
+      { "text": "eps-topik-book/eps2025-6-6-4.jpg", "translate": "12:30" }
+    ],
+    "answer": 4
+  },
+  {
+    "id": 67,
+    "type": 1,
+    "photo": null,
+    "audio": "eps-topik-book/eps2025-6-02.mp3",
+    "question": {
+      "text": " 다음을 듣고 들은 내용과 관계있는 그림을 고르십시오.",
+      "translate": " Nghe và chọn hình phù hợp với nội dung đã nghe."
+    },
+    "options": [
+      { "text": "eps-topik-book/eps2025-6-7-1.jpg", "translate": "" },
+      { "text": "eps-topik-book/eps2025-6-7-2.jpg", "translate": "" },
+      { "text": "eps-topik-book/eps2025-6-7-3.jpg", "translate": "" },
+      { "text": "eps-topik-book/eps2025-6-7-4.jpg", "translate": "" }
+    ],
+    "answer": 4
+  },
+  {
+    "id": 68,
+    "type": 1,
+    "photo": null,
+    "audio": "eps-topik-book/eps2025-6-03.mp3",
+    "question": {
+      "text": " 다음을 듣고 들은 내용과 관계있는 그림을 고르십시오.",
+      "translate": " Nghe và chọn hình phù hợp với nội dung đã nghe."
+    },
+    "options": [
+      { "text": "eps-topik-book/eps2025-6-8-1.jpg", "translate": "" },
+      { "text": "eps-topik-book/eps2025-6-8-2.jpg", "translate": "" },
+      { "text": "eps-topik-book/eps2025-6-8-3.jpg", "translate": "" },
+      { "text": "eps-topik-book/eps2025-6-8-4.jpg", "translate": "" }
+    ],
+    "answer": 2
+  },
+  {
+    "id": 69,
+    "type": 0,
+    "photo": null,
+    "audio": "eps-topik-book/eps2025-6-04.mp3",
+    "question": {
+      "text": "다음을 듣고 물음에 알맞은 대답을 고르십시오.",
+      "translate": "Nghe và chọn câu trả lời phù hợp."
+    },
+    "options": [
+      { "text": "매일 출근합니다.", "translate": "Đi làm mỗi ngày." },
+      { "text": "버스로 출근합니다.", "translate": "Đi làm bằng xe buýt." },
+      { "text": "아침 8시에 출근합니다.", "translate": "Đi làm lúc 8 giờ sáng." },
+      { "text": "칼로 씨하고 같이 출근합니다.", "translate": "Đi làm cùng anh Carlo." }
+    ],
+    "answer": 3
+  },
+  {
+    "id": 70,
+    "type": 0,
+    "photo": null,
+    "audio": "eps-topik-book/eps2025-6-05.mp3",
+    "question": {
+      "text": "다음을 듣고 물음에 알맞은 대답을 고르십시오.",
+      "translate": "Nghe và chọn câu trả lời phù hợp."
+    },
+    "options": [
+      { "text": "7시에 먹습니다.", "translate": "Ăn lúc 7 giờ." },
+      { "text": "비빔밥을 먹습니다.", "translate": "Ăn bibimbap." },
+      { "text": "기숙사에서 먹습니다.", "translate": "Ăn ở ký túc xá." },
+      { "text": "반장님하고 먹습니다.", "translate": "Ăn cùng tổ trưởng." }
+    ],
+    "answer": 3
+  }
+]
