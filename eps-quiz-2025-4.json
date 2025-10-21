@@ -1,0 +1,172 @@
+[
+  {
+    "id": 41,
+    "type": 1,
+    "photo": null,
+    "audio": null,
+    "question": {
+      "text": "다음 내용과 관계있는 그림을 고르십시오.<hl>요리를 하고 있습니다.</hl>",
+      "translate": "Hãy chọn bức tranh liên quan đến nội dung sau.<hl>Đang nấu ăn.</hl>"
+    },
+    "options": [
+      { "text": "eps-topik-book/epsbook2025-4-1-1.jpg", "translate": "" },
+      { "text": "eps-topik-book/epsbook2025-4-1-2.jpg", "translate": "" },
+      { "text": "eps-topik-book/epsbook2025-4-1-3.jpg", "translate": "" },
+      { "text": "eps-topik-book/epsbook2025-4-1-4.jpg", "translate": "" }
+    ],
+    "answer": 2
+  },
+  {
+    "id": 42,
+    "type": 1,
+    "photo": null,
+    "audio": null,
+    "question": {
+      "text": "다음 내용과 관계있는 그림을 고르십시오.<hl>공부를 하고 있습니다.</hl>",
+      "translate": "Hãy chọn bức tranh liên quan đến nội dung sau.<hl>Đang học bài.</hl>"
+    },
+    "options": [
+      { "text": "eps-topik-book/epsbook2025-4-2-1.jpg", "translate": "" },
+      { "text": "eps-topik-book/epsbook2025-4-2-2.jpg", "translate": "" },
+      { "text": "eps-topik-book/epsbook2025-4-2-3.jpg", "translate": "" },
+      { "text": "eps-topik-book/epsbook2025-4-2-4.jpg", "translate": "" }
+    ],
+    "answer": 4
+  },
+  {
+    "id": 43,
+    "type": 0,
+    "photo": null,
+    "audio": null,
+    "question": {
+      "text": "다음 중 밑줄 친 부분이 맞는 문장을 고르십시오.",
+      "translate": "Trong các câu sau, chọn câu có phần gạch chân đúng."
+    },
+    "options": [
+      { "text": "책이 읽어요.", "translate": "Tôi đọc sách." },
+      { "text": "물을 마셔요.", "translate": "Tôi uống nước." },
+      { "text": "전화에 해요.", "translate": "Tôi gọi điện thoại." },
+      { "text": "신문는 봐요.", "translate": "Tôi đọc báo." }
+    ],
+    "answer": 2
+  },
+  {
+    "id": 44,
+    "type": 0,
+    "photo": null,
+    "audio": null,
+    "question": {
+      "text": "다음 중 밑줄 친 부분이 맞는 문장을 고르십시오.",
+      "translate": "Trong các câu sau, chọn câu có phần gạch chân đúng."
+    },
+    "options": [
+      { "text": "운동을 하요.", "translate": "Tôi tập thể dục." },
+      { "text": "회사에 가아요.", "translate": "Tôi đi đến công ty." },
+      { "text": "커피를 마시요.", "translate": "Tôi uống cà phê." },
+      { "text": "텔레비전을 봐요.", "translate": "Tôi xem tivi." }
+    ],
+    "answer": 4
+  },
+  {
+    "id": 45,
+    "type": 0,
+    "photo": null,
+    "audio": null,
+    "question": {
+      "text": "다음 글을 읽고 내용과 같은 것을 고르십시오.<hl>한국인들은 대부분 집안에서 신발을 벗고 생활하며 바닥에 앉아서 식사를 하거나 TV를 보기도 합니다. 이러한 좌식 문화는 바닥을 따뜻하게 하는 한국의 전통 난방 방식 때문에 생겨난 것으로 현대에도 지속되고 있습니다. 밖에서는 주로 소파나 의자에 앉아 생활하는 젊은 사람들도 집안에서는 자주 따뜻한 바닥에 앉아 TV를 보거나 쉬기도 합니다.</hl>",
+      "translate": "Đọc đoạn văn sau và chọn câu có nội dung đúng.<hl>Người Hàn Quốc phần lớn cởi giày khi ở trong nhà, thường ngồi dưới sàn để ăn hoặc xem TV. Văn hóa ngồi sàn này bắt nguồn từ hệ thống sưởi truyền thống giúp sàn nhà ấm áp và vẫn được duy trì đến ngày nay. Dù bên ngoài giới trẻ thường ngồi trên ghế hoặc sofa, nhưng ở nhà họ vẫn thường ngồi trên sàn ấm để xem TV hoặc nghỉ ngơi.</hl>"
+    },
+    "options": [
+      { "text": "좌식 문화는 한국의 전통 생활 방식입니다.", "translate": "Văn hóa ngồi sàn là phong tục truyền thống của Hàn Quốc." },
+      { "text": "한국인들은 집안에서 신발을 신고 생활합니다.", "translate": "Người Hàn Quốc đi giày trong nhà." },
+      { "text": "한국인들은 바닥에 앉아서 식사하지 않습니다.", "translate": "Người Hàn Quốc không ngồi trên sàn để ăn." },
+      { "text": "젊은 사람들은 좌식 문화에 익숙하지 않습니다.", "translate": "Người trẻ không quen với văn hóa ngồi sàn." }
+    ],
+    "answer": 1
+  },
+  {
+    "id": 46,
+    "type": 0,
+    "photo": null,
+    "audio": "eps-topik-book/epsbook2025-4-01.mp3",
+    "question": {
+      "text": "다음을 듣고 빈칸에 알맞은 것을 고르십시오.<hl>이것은 ____입니다.</hl>",
+      "translate": "Nghe và chọn từ thích hợp điền vào chỗ trống.<hl>Đây là ____.</hl>"
+    },
+    "options": [
+      { "text": "사과", "translate": "Quả táo" },
+      { "text": "바지", "translate": "Quần" },
+      { "text": "과자", "translate": "Bánh kẹo" },
+      { "text": "소파", "translate": "Sofa" }
+    ],
+    "answer": 1
+  },
+  {
+    "id": 47,
+    "type": 1,
+    "photo": null,
+    "audio": "eps-topik-book/epsbook2025-4-02.mp3",
+    "question": {
+      "text": "다음을 듣고 내용과 관계있는 그림을 고르십시오.",
+      "translate": "Nghe và chọn bức tranh liên quan đến nội dung."
+    },
+    "options": [
+      { "text": "eps-topik-book/epsbook2025-4-7-1.jpg", "translate": "" },
+      { "text": "eps-topik-book/epsbook2025-4-7-2.jpg", "translate": "" },
+      { "text": "eps-topik-book/epsbook2025-4-7-3.jpg", "translate": "" },
+      { "text": "eps-topik-book/epsbook2025-4-7-4.jpg", "translate": "" }
+    ],
+    "answer": 3
+  },
+  {
+    "id": 48,
+    "type": 1,
+    "photo": null,
+    "audio": "eps-topik-book/epsbook2025-4-03.mp3",
+    "question": {
+      "text": "다음을 듣고 내용과 관계있는 그림을 고르십시오.",
+      "translate": "Nghe và chọn bức tranh liên quan đến nội dung."
+    },
+    "options": [
+      { "text": "eps-topik-book/epsbook2025-4-8-1.jpg", "translate": "" },
+      { "text": "eps-topik-book/epsbook2025-4-8-2.jpg", "translate": "" },
+      { "text": "eps-topik-book/epsbook2025-4-8-3.jpg", "translate": "" },
+      { "text": "eps-topik-book/epsbook2025-4-8-4.jpg", "translate": "" }
+    ],
+    "answer": 2
+  },
+  {
+    "id": 49,
+    "type": 0,
+    "photo": null,
+    "audio": "eps-topik-book/epsbook2025-4-04.mp3",
+    "question": {
+      "text": "다음을 듣고 물음에 알맞은 대답을 고르십시오.",
+      "translate": "Nghe và chọn câu trả lời phù hợp."
+    },
+    "options": [
+      { "text": "네, 주스를 사요.", "translate": "Vâng, tôi mua nước ép." },
+      { "text": "네, 주스가 없어요.", "translate": "Vâng, không có nước ép." },
+      { "text": "아니요, 주스예요.", "translate": "Không, đó là nước ép." },
+      { "text": "아니요, 주스를 안 마셔요.", "translate": "Không, tôi không uống nước ép." }
+    ],
+    "answer": 4
+  },
+  {
+    "id": 50,
+    "type": 0,
+    "photo": null,
+    "audio": "eps-topik-book/epsbook2025-4-05.mp3",
+    "question": {
+      "text": "다음을 듣고 물음에 알맞은 대답을 고르십시오.",
+      "translate": "Nghe và chọn câu trả lời phù hợp."
+    },
+    "options": [
+      { "text": "유진 씨예요.", "translate": "Là cô Yujin." },
+      { "text": "영화를 봐요.", "translate": "Tôi xem phim." },
+      { "text": "회사에 안 가요.", "translate": "Tôi không đi làm." },
+      { "text": "유진 씨를 만나요.", "translate": "Tôi gặp cô Yujin." }
+    ],
+    "answer": 2
+  }
+]
