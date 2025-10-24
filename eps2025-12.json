@@ -1,0 +1,172 @@
+[
+  {
+    "id": 121,
+    "type": 1,
+    "photo": null,
+    "audio": null,
+    "question": {
+      "text": "다음 내용과 관계있는 그림을 고르십시오.<hl>버스입니다.</hl>",
+      "translate": "Chọn bức tranh có nội dung phù hợp.<hl>Đây là xe buýt.</hl>"
+    },
+    "options": [
+      { "text": "eps-topik-book/eps2025-12-1-1.jpg", "translate": "" },
+      { "text": "eps-topik-book/eps2025-12-1-2.jpg", "translate": "" },
+      { "text": "eps-topik-book/eps2025-12-1-3.jpg", "translate": "" },
+      { "text": "eps-topik-book/eps2025-12-1-4.jpg", "translate": "" }
+    ],
+    "answer": 3
+  },
+  {
+    "id": 122,
+    "type": 0,
+    "photo": null,
+    "audio": null,
+    "question": {
+      "text": "다음 중 밑줄 친 부분이 맞는 것을 고르십시오.",
+      "translate": "Chọn câu có phần gạch chân đúng ngữ pháp."
+    },
+    "options": [
+      { "text": "집이 <u>가깝어서</u> 걸어왔어요.", "translate": "Nhà gần nên tôi đi bộ đến." },
+      { "text": "오늘 <u>피곤하서</u> 일찍 잤어요.", "translate": "Hôm nay mệt nên ngủ sớm. (sai)" },
+      { "text": "친구를 <u>만나아서</u> 즐거웠어요.", "translate": "Gặp bạn nên vui. (sai dạng kết hợp)" },
+      { "text": "눈이 많이 <u>와서</u> 차가 막혔어요.", "translate": "Tuyết rơi nhiều nên xe bị kẹt." }
+    ],
+    "answer": 4
+  },
+  {
+    "id": 123,
+    "type": 0,
+    "photo": null,
+    "audio": null,
+    "question": {
+      "text": "빈칸에 들어갈 가장 알맞은 것을 고르십시오.<hl>회사가 집에서 아주 ____. 그래서 저는 매일 걸어서 출근합니다.</hl>",
+      "translate": "Chọn từ thích hợp điền vào chỗ trống.<hl>Công ty rất ____ so với nhà, nên tôi đi làm bằng cách đi bộ mỗi ngày.</hl>"
+    },
+    "options": [
+      { "text": "바쁩니다", "translate": "bận rộn" },
+      { "text": "가깝습니다", "translate": "gần" },
+      { "text": "멋있습니다", "translate": "đẹp, ngầu" },
+      { "text": "괜찮습니다", "translate": "ổn" }
+    ],
+    "answer": 2
+  },
+  {
+    "id": 124,
+    "type": 0,
+    "photo": "eps-topik-book/eps2025-12-4.jpg",
+    "audio": null,
+    "question": {
+      "text": "다음 글을 읽고 내용과 같은 것을 고르십시오.",
+      "translate": "Đọc đoạn thông tin và chọn câu có nội dung đúng."
+    },
+    "options": [
+      { "text": "기차 타는 곳은 5번입니다", "translate": "Sân ga số 5" },
+      { "text": "화요일에 부산으로 가는 기차입니다.", "translate": "Tàu đi Busan vào thứ Ba" },
+      { "text": "기차는 오후 2시 30분에 출발합니다.", "translate": "Tàu khởi hành lúc 2 giờ 30 chiều" },
+      { "text": "기차표의 가격은 육만 원이 넘습니다.", "translate": "Giá vé trên 60.000 won" }
+    ],
+    "answer": 2
+  },
+  {
+    "id": 125,
+    "type": 0,
+    "photo": null,
+    "audio": null,
+    "question": {
+      "text": "다음 글을 읽고 내용과 같은 것을 고르십시오.<hl>한국에는 KTX, SRT와 같은 고속 열차와 새마을호, 무궁화호 등과 같은 일반 열차가 있습니다. 고속 열차는 요금이 좀 비싸지만 일반 열차보다 빠르고 편리합니다. 서울에서부터 한국의 최남단 도시인 부산까지 2시간 반쯤 걸립니다. 기차를 이용할 때는 인터넷이나 모바일 앱을 통해 표를 예매할 수 있습니다.</hl>",
+      "translate": "Đọc đoạn văn và chọn câu có nội dung đúng.<hl>Ở Hàn Quốc có tàu cao tốc như KTX, SRT và tàu thường như Saemaeul, Mugunghwa. Tàu cao tốc đắt hơn nhưng nhanh và tiện hơn. Từ Seoul đến Busan mất khoảng 2 tiếng rưỡi. Có thể đặt vé qua internet hoặc ứng dụng di động.</hl>"
+    },
+    "options": [
+      { "text": "새마을호의 요금은 KTX보다 비쌉니다.", "translate": "Giá vé Saemaeul đắt hơn KTX." },
+      { "text": "새마을호와 무궁화호는 고속 열차입니다.", "translate": "Saemaeul và Mugunghwa là tàu cao tốc." },
+      { "text": "모바일 앱을 이용해서 기차표를 살 수 있습니다.", "translate": "Có thể mua vé tàu bằng ứng dụng di động." },
+      { "text": "서울에서 일반 열차를 타면 3시간 안에 부산에 도착합니다.", "translate": "Tàu thường từ Seoul đến Busan mất dưới 3 tiếng." }
+    ],
+    "answer": 3
+  },
+  {
+    "id": 126,
+    "type": 0,
+    "photo": null,
+    "audio": "eps-topik-book/eps2025-12-01.mp3",
+    "question": {
+      "text": "이 기차는 어디에서 출발합니까?",
+      "translate": "Tàu này khởi hành từ đâu?"
+    },
+    "options": [
+      { "text": "광주역", "translate": "Ga Gwangju" },
+      { "text": "대구역", "translate": "Ga Daegu" },
+      { "text": "대전역", "translate": "Ga Daejeon" },
+      { "text": "서울역", "translate": "Ga Seoul" }
+    ],
+    "answer": 4
+  },
+  {
+    "id": 127,
+    "type": 0,
+    "photo": null,
+    "audio": "eps-topik-book/eps2025-12-02.mp3",
+    "question": {
+      "text": "목적지까지 비행 시간은 얼마나 됩니까?",
+      "translate": "Thời gian bay đến điểm đến là bao lâu?"
+    },
+    "options": [
+      { "text": "3시간 10분", "translate": "3 tiếng 10 phút" },
+      { "text": "3시간 20분", "translate": "3 tiếng 20 phút" },
+      { "text": "4시간 10분", "translate": "4 tiếng 10 phút" },
+      { "text": "4시간 20분", "translate": "4 tiếng 20 phút" }
+    ],
+    "answer": 4
+  },
+  {
+    "id": 128,
+    "type": 0,
+    "photo": null,
+    "audio": "eps-topik-book/eps2025-12-03.mp3",
+    "question": {
+      "text": "다음을 듣고 물음에 알맞은 대답을 고르십시오.",
+      "translate": "Nghe và chọn câu trả lời phù hợp."
+    },
+    "options": [
+      { "text": "회사가 집에서 멀어요.", "translate": "Công ty xa nhà." },
+      { "text": "기차역에서 버스를 탔어요.", "translate": "Tôi bắt xe buýt ở ga tàu." },
+      { "text": "지하철 2호선을 타고 가요.", "translate": "Tôi đi bằng tàu điện tuyến 2." },
+      { "text": "날씨가 좋아서 걸어왔어요.", "translate": "Trời đẹp nên tôi đi bộ đến." }
+    ],
+    "answer": 3
+  },
+  {
+    "id": 129,
+    "type": 0,
+    "photo": null,
+    "audio": "eps-topik-book/eps2025-12-04.mp3",
+    "question": {
+      "text": "다음을 듣고 이어지는 말로 가장 알맞은 것을 고르십시오.",
+      "translate": "Nghe và chọn câu nói tiếp theo phù hợp nhất."
+    },
+    "options": [
+      { "text": "오늘도 버스를 타고 왔어요.", "translate": "Hôm nay tôi cũng đi bằng xe buýt." },
+      { "text": "저는 매일 지하철로 출근해요.", "translate": "Tôi đi làm bằng tàu điện mỗi ngày." },
+      { "text": "여기에서 잠깐만 기다려 주세요.", "translate": "Hãy đợi một chút ở đây nhé." },
+      { "text": "지하철역은 없고 버스 정류장은 있어요.", "translate": "Không có ga tàu điện nhưng có trạm xe buýt." }
+    ],
+    "answer": 4
+  },
+  {
+    "id": 130,
+    "type": 0,
+    "photo": null,
+    "audio": "eps-topik-book/eps2025-12-05.mp3",
+    "question": {
+      "text": "다음을 듣고 이어지는 말로 가장 알맞은 것을 고르십시오.",
+      "translate": "Nghe và chọn câu nói tiếp theo phù hợp nhất."
+    },
+    "options": [
+      { "text": "회사까지 어떻게 와요?", "translate": "Bạn đến công ty bằng cách nào?" },
+      { "text": "내일 일찍 올 수 있어요?", "translate": "Ngày mai bạn có thể đến sớm không?" },
+      { "text": "비가 와서 차가 막혔어요.", "translate": "Do mưa nên xe bị kẹt." },
+      { "text": "지하철로 갈아타고 왔어요.", "translate": "Tôi đã chuyển tàu điện rồi đến." }
+    ],
+    "answer": 3
+  }
+]
