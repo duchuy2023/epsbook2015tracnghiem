@@ -52,7 +52,7 @@
   },
   {
     "id": 104,
-    "type": 1,
+    "type": 0,
     "photo": "eps-topik-book/eps2025-10-4.jpg",
     "audio": null,
     "question": {
@@ -104,7 +104,7 @@
   {
     "id": 107,
     "type": 1,
-    "photo": "eps-topik-book/eps2025-10-7.jpg",
+    "photo": null,
     "audio": "eps-topik-book/eps2025-10-02.mp3",
     "question": {
       "text": "다음을 듣고 들은 내용과 관계있는 그림을 고르십시오.",
