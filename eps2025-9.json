@@ -1,0 +1,172 @@
+[
+  {
+    "id": 91,
+    "type": 1,
+    "photo": null,
+    "audio": null,
+    "question": {
+      "text": "다음 내용과 관계있는 그림을 고르십시오.<hl>김밥입니다</hl>",
+      "translate": "Chọn bức tranh có nội dung phù hợp.<hl>Đây là kimbap</hl>"
+    },
+    "options": [
+      { "text": "eps-topik-book/epsbook2025-9-1-1.jpg", "translate": "" },
+      { "text": "eps-topik-book/epsbook2025-9-1-2.jpg", "translate": "" },
+      { "text": "eps-topik-book/epsbook2025-9-1-3.jpg", "translate": "" },
+      { "text": "eps-topik-book/epsbook2025-9-1-4.jpg", "translate": "" }
+    ],
+    "answer": 4
+  },
+  {
+    "id": 92,
+    "type": 0,
+    "photo": null,
+    "audio": null,
+    "question": {
+      "text": "다음 단어와 관계있는 것은 무엇입니까?<hl>김치찌개</hl>",
+      "translate": "Từ nào có liên quan đến <hl> Canh kimchi</hl>"
+    },
+    "options": [
+      { "text": "날씨", "translate": "Thời tiết" },
+      { "text": "가구", "translate": "Đồ nội thất" },
+      { "text": "음식", "translate": "Đồ ăn" },
+      { "text": "도시", "translate": "Thành phố" }
+    ],
+    "answer": 3
+  },
+  {
+    "id": 93,
+    "type": 0,
+    "photo": null,
+    "audio": null,
+    "question": {
+      "text": "다음 중 밑줄 친 부분이 맞는 문장을 고르십시오.",
+      "translate": "Chọn câu có phần gạch chân đúng ngữ pháp."
+    },
+    "options": [
+      { "text": "주스<u>과</u> 우유를 마셔요.", "translate": "Tôi uống nước trái cây và sữa." },
+      { "text": "김밥<u>와</u> 라면을 주세요.", "translate": "Cho tôi kimbap và mì." },
+      { "text": "편의점<u>과</u> 식당이 있어요.", "translate": "Có cửa hàng tiện lợi và nhà hàng." },
+      { "text": "우동<u>와</u> 돈가스를 먹어요.", "translate": "Tôi ăn udon và tonkatsu." }
+    ],
+    "answer": 3
+  },
+  {
+    "id": 94,
+    "type": 0,
+    "photo": null,
+    "audio": null,
+    "question": {
+      "text": "빈칸에 들어갈 가장 알맞은 것을 고르십시오.<hl>커피숍에 갔어요. 커피를 한 ____ 마셨어요.</hl>",
+      "translate": "Chọn từ thích hợp điền vào chỗ trống.<hl>Tôi đã đến quán cà phê và uống một ____ cà phê.</hl>"
+    },
+    "options": [
+      { "text": "명", "translate": "Người" },
+      { "text": "권", "translate": "Quyển (sách)" },
+      { "text": "잔", "translate": "Cốc, ly (đơn vị đếm đồ uống)" },
+      { "text": "개", "translate": "Cái" }
+    ],
+    "answer": 3
+  },
+  {
+    "id": 95,
+    "type": 0,
+    "photo": null,
+    "audio": null,
+    "question": {
+      "text": "다음 글을 읽고 내용과 같은 것을 고르십시오.<hl>최근에는 키오스크를 이용해 음식을 주문하는 가게가 많아지고 있습니다. 키오스크를 사용하면 메뉴 선택과 결제를 한 번에 할 수 있어서 매우 편리합니다. 터치스크린을 통해 원하는 메뉴와 개수를 고르고, 카드나 모바일 결제 시스템을 이용해 결제하면 됩니다. 키오스크 덕분에 사람들은 음식을 빠르고 간편하게 주문할 수 있습니다.</hl>",
+      "translate": "Đọc đoạn văn và chọn câu có nội dung giống nhất.<hl>Gần đây, nhiều cửa hàng sử dụng máy đặt hàng (kiosk). Dùng kiosk rất tiện lợi vì có thể chọn món và thanh toán cùng lúc. Chỉ cần chạm vào màn hình để chọn món, số lượng rồi thanh toán bằng thẻ hoặc điện thoại. Nhờ kiosk, mọi người có thể đặt món nhanh và dễ dàng hơn.</hl>"
+    },
+    "options": [
+      { "text": "키오스크는 현금 결제만 가능합니다.", "translate": "Kiosk chỉ có thể thanh toán bằng tiền mặt." },
+      { "text": "키오스크를 이용하면 주문이 편리합니다.", "translate": "Sử dụng kiosk giúp việc đặt món tiện lợi hơn." },
+      { "text": "키오스크에서는 메뉴를 선택할 수 없습니다.", "translate": "Không thể chọn món ăn bằng kiosk." },
+      { "text": "키오스크를 모든 가게에서 이용할 수 있습니다.", "translate": "Có thể sử dụng kiosk ở mọi cửa hàng." }
+    ],
+    "answer": 2
+  },
+  {
+    "id": 96,
+    "type": 0,
+    "photo": null,
+    "audio": "eps-topik-book/epsbook2025-9-01.mp3",
+    "question": {
+      "text": "다음을 듣고 빈칸에 알맞은 것을 고르십시오.<hl>이것은 ____ 입니다.</hl>",
+      "translate": "Nghe và chọn từ thích hợp điền vào chỗ trống.<hl>Đây là ____.</hl>"
+    },
+    "options": [
+      { "text": "탕수육", "translate": "Thịt xào chua ngọt" },
+      { "text": "비빔밥", "translate": "Cơm trộn" },
+      { "text": "자장면", "translate": "Mì tương đen" },
+      { "text": "불고기", "translate": "Thịt nướng" }
+    ],
+    "answer": 2
+  },
+  {
+    "id": 97,
+    "type": 1,
+    "photo": null,
+    "audio": "eps-topik-book/epsbook2025-9-02.mp3",
+    "question": {
+      "text": "다음을 듣고 들은 내용과 관계있는 그림을 고르십시오.",
+      "translate": "Nghe và chọn bức tranh có nội dung phù hợp với nội dung nghe."
+    },
+    "options": [
+      { "text": "eps-topik-book/epsbook2025-9-7-1.jpg", "translate": "" },
+      { "text": "eps-topik-book/epsbook2025-9-7-2.jpg", "translate": "" },
+      { "text": "eps-topik-book/epsbook2025-9-7-3.jpg", "translate": "" },
+      { "text": "eps-topik-book/epsbook2025-9-7-4.jpg", "translate": "" }
+    ],
+    "answer": 3
+  },
+  {
+    "id": 98,
+    "type": 0,
+    "photo": null,
+    "audio": "eps-topik-book/epsbook2025-9-03.mp3",
+    "question": {
+      "text": "다음을 듣고 물음에 알맞은 대답을 고르십시오.",
+      "translate": "Nghe và chọn câu trả lời phù hợp."
+    },
+    "options": [
+      { "text": "네, 피자가 있어요.", "translate": "Vâng, có pizza." },
+      { "text": "네, 피자를 좋아해요.", "translate": "Vâng, tôi thích pizza." },
+      { "text": "아니요, 피자가 커요.", "translate": "Không, pizza to lắm." },
+      { "text": "아니요, 피자를 사요.", "translate": "Không, tôi mua pizza." }
+    ],
+    "answer": 2
+  },
+  {
+    "id": 99,
+    "type": 0,
+    "photo": null,
+    "audio": "eps-topik-book/epsbook2025-9-04.mp3",
+    "question": {
+      "text": "다음을 듣고 물음에 알맞은 대답을 고르십시오.",
+      "translate": "Nghe và chọn câu trả lời phù hợp."
+    },
+    "options": [
+      { "text": "생일에 먹었어요.", "translate": "Tôi đã ăn vào sinh nhật." },
+      { "text": "두 그릇 먹었어요.", "translate": "Tôi đã ăn hai bát." },
+      { "text": "식당에서 먹었어요.", "translate": "Tôi ăn ở nhà hàng." },
+      { "text": "김밥하고 라면을 먹었어요.", "translate": "Tôi ăn kimbap và mì." }
+    ],
+    "answer": 4
+  },
+  {
+    "id": 100,
+    "type": 0,
+    "photo": null,
+    "audio": "eps-topik-book/epsbook2025-9-05.mp3",
+    "question": {
+      "text": "두 사람은 무엇에 대해 말하고 있습니까?",
+      "translate": "Hai người đang nói về điều gì?"
+    },
+    "options": [
+      { "text": "운동", "translate": "Thể thao" },
+      { "text": "쇼핑", "translate": "Mua sắm" },
+      { "text": "취미", "translate": "Sở thích" },
+      { "text": "음식", "translate": "Đồ ăn" }
+    ],
+    "answer": 4
+  }
+]
