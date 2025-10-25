@@ -23,7 +23,7 @@
     "audio": null,
     "question": {
       "text": "다음 단어와 관계있는 것은 무엇입니까?<hl>슬프다</hl>",
-      "translate": "Từ có liên quan đến điều nào sau đây. <hl>Buồn</hl>",
+      "translate": "Từ có liên quan đến điều nào sau đây. <hl>Buồn</hl>"
     },
     "options": [
       { "text": "재료", "translate": "nguyên liệu" },
