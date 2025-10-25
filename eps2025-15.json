@@ -1,0 +1,172 @@
+[
+  {
+    "id": 151,
+    "type": 1,
+    "photo": null,
+    "audio": null,
+    "question": {
+      "text": "다음 내용과 관계있는 그림을 고르십시오.<hl>티셔츠입니다.</hl>",
+      "translate": "Chọn bức tranh có nội dung phù hợp.<hl>Đây là áo thun .</hl>"
+    },
+    "options": [
+      { "text": "eps-topik-book/eps2025-15-1-1.jpg", "translate": "" },
+      { "text": "eps-topik-book/eps2025-15-1-2.jpg", "translate": "" },
+      { "text": "eps-topik-book/eps2025-15-1-3.jpg", "translate": "" },
+      { "text": "eps-topik-book/eps2025-15-1-4.jpg", "translate": "" }
+    ],
+    "answer": 2
+  },
+  {
+    "id": 152,
+    "type": 0,
+    "photo": null,
+    "audio": null,
+    "question": {
+      "text": "다음 중 밑줄 친 부분이 맞는 문장을 고르십시오.",
+      "translate": "Chọn câu có phần gạch chân đúng ngữ pháp."
+    },
+    "options": [
+      { "text": "<u>맛있은</u> 빵을 먹었어요.", "translate": "Tôi đã ăn bánh ngon. (sai – phải là 맛있는)" },
+      { "text": "<u>예쁜</u> 원피스를 살 거예요.", "translate": "Tôi sẽ mua chiếc váy đẹp. (đúng)" },
+      { "text": "<u>덥은</u> 날씨를 안 좋아해요.", "translate": "Tôi không thích thời tiết nóng. (sai – phải là 더운)" },
+      { "text": "머리가 <u>짧는</u> 사람이 제 친구예요.", "translate": "Người có tóc ngắn là bạn tôi. (sai – phải là 짧은)" }
+    ],
+    "answer": 2
+  },
+  {
+    "id": 153,
+    "type": 0,
+    "photo": null,
+    "audio": null,
+    "question": {
+      "text": "빈칸에 들어갈 가장 알맞은 것을 고르십시오.<hl>어제 날씨가 아주 더웠어요. 그래서 짧은 바지를 _________.</hl>",
+      "translate": "Chọn đáp án đúng điền vào chỗ trống.<hl>Hôm qua thời tiết rất nóng, nên tôi đã _______ quần ngắn.</hl>"
+    },
+    "options": [
+      { "text": "입었어요", "translate": "mặc" },
+      { "text": "버렸어요", "translate": "vứt bỏ" },
+      { "text": "정리했어요", "translate": "sắp xếp" },
+      { "text": "교환했어요", "translate": "đổi" }
+    ],
+    "answer": 1
+  },
+  {
+    "id": 154,
+    "type": 0,
+    "photo": null,
+    "audio": null,
+    "question": {
+      "text": "빈칸에 들어갈 가장 알맞은 것을 고르십시오.<hl>제 가족사진이에요. 동생은 키가 작고 모자를 _________.</hl>",
+      "translate": "Chọn đáp án đúng điền vào chỗ trống.<hl>Đây là ảnh gia đình tôi. Em tôi thấp và đang _______ mũ.</hl>"
+    },
+    "options": [
+      { "text": "입고 있어요", "translate": "đang mặc" },
+      { "text": "타고 있어요", "translate": "đang cưỡi" },
+      { "text": "신고 있어요", "translate": "đang mang (giày)" },
+      { "text": "쓰고 있어요", "translate": "đang đội (mũ)" }
+    ],
+    "answer": 4
+  },
+  {
+    "id": 155,
+    "type": 0,
+    "photo": null,
+    "audio": null,
+    "question": {
+      "text": "다음 글을 읽고 내용과 같은 것을 고르십시오.<hl>한복은 한국의 전통 의상으로 색상이 화려하고 디자인이 아름답습니다. 한국 사람들은 설날이나 결혼식과 같이 특별하고 중요한 날에 한복을 입습니다. 최근에는 전통 한복을 개량하여 만든 생활한복이 인기를 끌고 있습니다. 생활한복은 디자인이 단순하고 실용적이어서 일상생활에서도 편하게 입을 수 있습니다.</hl>",
+      "translate": "Đọc đoạn văn và chọn câu có nội dung đúng.<hl>Hanbok là trang phục truyền thống của Hàn Quốc, có màu sắc rực rỡ và thiết kế đẹp. Người Hàn mặc hanbok vào các dịp đặc biệt như Tết hay đám cưới. Gần đây, loại 'hanbok cải tiến' gọi là 생활한복 (hanbok thường ngày) trở nên phổ biến vì đơn giản, tiện lợi và có thể mặc trong sinh hoạt hằng ngày.</hl>"
+    },
+    "options": [
+      { "text": "생활한복은 화려하고 디자인이 아름답습니다.", "translate": "Hanbok thường ngày có màu sắc sặc sỡ và thiết kế đẹp." },
+      { "text": "최근에 한국 사람들이 전통 한복을 많이 입습니다.", "translate": "Gần đây người Hàn mặc hanbok truyền thống nhiều." },
+      { "text": "생활한복은 일상생활에서 편하게 입을 수 있습니다.", "translate": "Hanbok thường ngày có thể mặc thoải mái trong sinh hoạt hằng ngày." },
+      { "text": "한국의 전통 의상은 색상이 단순하여 인기가 많습니다.", "translate": "Trang phục truyền thống Hàn Quốc có màu đơn giản nên được yêu thích." }
+    ],
+    "answer": 3
+  },
+  {
+    "id": 156,
+    "type": 1,
+    "photo": null,
+    "audio": "eps-topik-book/eps2025-15-01.mp3",
+    "question": {
+      "text": "다음을 듣고 들은 내용과 관계있는 그림을 고르십시오.",
+      "translate": "Nghe và chọn bức tranh có nội dung phù hợp."
+    },
+    "options": [
+      { "text": "eps-topik-book/eps2025-15-6-1.jpg", "translate": "" },
+      { "text": "eps-topik-book/eps2025-15-6-2.jpg", "translate": "" },
+      { "text": "eps-topik-book/eps2025-15-6-3.jpg", "translate": "" },
+      { "text": "eps-topik-book/eps2025-15-6-4.jpg", "translate": "" }
+    ],
+    "answer": 1
+  },
+  {
+    "id": 157,
+    "type": 0,
+    "photo": null,
+    "audio": "eps-topik-book/eps2025-15-02.mp3",
+    "question": {
+      "text": "다음을 듣고 물음에 알맞은 대답을 고르십시오.",
+      "translate": "Nghe và chọn câu trả lời phù hợp nhất."
+    },
+    "options": [
+      { "text": "네, 모자를 써요.", "translate": "Vâng, tôi đội mũ." },
+      { "text": "네, 모자가 있어요.", "translate": "Vâng, tôi có mũ." },
+      { "text": "아니요, 모자가 많아요.", "translate": "Không, tôi có nhiều mũ." },
+      { "text": "아니요, 모자가 노란색이에요.", "translate": "Không, mũ màu vàng." }
+    ],
+    "answer": 4
+  },
+  {
+    "id": 158,
+    "type": 0,
+    "photo": null,
+    "audio": "eps-topik-book/eps2025-15-03.mp3",
+    "question": {
+      "text": "다음을 듣고 물음에 알맞은 대답을 고르십시오.",
+      "translate": "Nghe và chọn câu trả lời phù hợp nhất."
+    },
+    "options": [
+      { "text": "네, 구두가 비싸요.", "translate": "Vâng, đôi giày đắt." },
+      { "text": "네, 구두가 무거워요.", "translate": "Vâng, giày nặng." },
+      { "text": "아니요, 구두가 조금 커요.", "translate": "Không, giày hơi rộng." },
+      { "text": "아니요, 구두를 신고 있어요.", "translate": "Không, tôi đang mang giày." }
+    ],
+    "answer": 3
+  },
+  {
+    "id": 159,
+    "type": 0,
+    "photo": null,
+    "audio": "eps-topik-book/eps2025-15-04.mp3",
+    "question": {
+      "text": "두 사람은 무엇에 대해 말하고 있습니까?",
+      "translate": "Hai người đang nói về điều gì?"
+    },
+    "options": [
+      { "text": "날씨", "translate": "thời tiết" },
+      { "text": "요일", "translate": "ngày trong tuần" },
+      { "text": "취미", "translate": "sở thích" },
+      { "text": "색깔", "translate": "màu sắc" }
+    ],
+    "answer": 4
+  },
+  {
+    "id": 160,
+    "type": 0,
+    "photo": null,
+    "audio": "eps-topik-book/eps2025-15-05.mp3",
+    "question": {
+      "text": "다음을 듣고 이어지는 말로 가장 알맞은 것을 고르십시오.",
+      "translate": "Nghe và chọn câu nói tiếp theo phù hợp nhất."
+    },
+    "options": [
+      { "text": "어제 바지를 샀어요.", "translate": "Hôm qua tôi đã mua quần." },
+      { "text": "잠바를 입고 있어요.", "translate": "Tôi đang mặc áo khoác." },
+      { "text": "이 원피스는 좀 작아요.", "translate": "Chiếc váy này hơi nhỏ." },
+      { "text": "파란색 운동화를 좋아해요.", "translate": "Tôi thích giày thể thao màu xanh." }
+    ],
+    "answer": 2
+  }
+]
