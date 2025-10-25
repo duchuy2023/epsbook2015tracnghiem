@@ -73,8 +73,8 @@
     "photo": null,
     "audio": null,
     "question": {
-      "text": "다음 글을 읽고 내용과 같은 것을 고르십시오.<hl><hl>한국에서는 ‘도로명 주소’를 사용합니다. 도로의 이름을 기준으로 주소를 표기하기 때문에 쉽게 위치를 파악할 수 있습니다. 한국의 도로명 주소는 영어 주소 표기 방식과 달리 ‘도시명, 구, 도로명, 건물 번호’와 같이 큰 단위에서 작은 단위의 순서로 표기합니다.</hl>",
-      "translate": "Đọc đoạn văn và chọn câu có nội dung đúng.<hl><hl>Hàn Quốc sử dụng hệ thống 'địa chỉ theo tên đường'. Vì ghi địa chỉ dựa trên tên đường nên dễ xác định vị trí. Cách ghi địa chỉ ở Hàn khác với tiếng Anh: theo thứ tự từ đơn vị lớn đến nhỏ – thành phố, quận, tên đường, số tòa nhà.</hl>"
+      "text": "다음 글을 읽고 내용과 같은 것을 고르십시오.<hl>한국에서는 ‘도로명 주소’를 사용합니다. 도로의 이름을 기준으로 주소를 표기하기 때문에 쉽게 위치를 파악할 수 있습니다. 한국의 도로명 주소는 영어 주소 표기 방식과 달리 ‘도시명, 구, 도로명, 건물 번호’와 같이 큰 단위에서 작은 단위의 순서로 표기합니다.</hl>",
+      "translate": "Đọc đoạn văn và chọn câu có nội dung đúng.<hl>Hàn Quốc sử dụng hệ thống 'địa chỉ theo tên đường'. Vì ghi địa chỉ dựa trên tên đường nên dễ xác định vị trí. Cách ghi địa chỉ ở Hàn khác với tiếng Anh: theo thứ tự từ đơn vị lớn đến nhỏ – thành phố, quận, tên đường, số tòa nhà.</hl>"
     },
     "options": [
       { "text": "한국의 도로명 주소를 쓰는 순서는 영어와 같습니다.", "translate": "Thứ tự viết địa chỉ theo tên đường ở Hàn giống tiếng Anh." },
